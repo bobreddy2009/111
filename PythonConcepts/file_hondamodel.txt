@@ -1,0 +1,2 @@
+model,vehicle_type,seat_type,capacity,gas,mpg
+oddey,mini-van,leather,8,27,-1 
